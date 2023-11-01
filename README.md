@@ -8,9 +8,11 @@ You must have Java SE 10 or higher installed on your machine. Also, you can down
 
 ## Game Instructions
 
-**Goal**: There are three levels. In each level, you need to hit all the blocks with the ball.
+### Goal: 
 
-**Game Rules**:
+There are three levels. In each level, you need to hit all the blocks with the ball.
+
+### Game Rules:
 
 If the ball falls off, you lose one life. You have only 5 lives, so use them carefully!
 
